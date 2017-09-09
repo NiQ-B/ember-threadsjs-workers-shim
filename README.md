@@ -1,11 +1,11 @@
-# ember-hamstersjs-workers-shim
+# ember-threadsjs-workers-shim
 
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-hamstersjs-workers-shim`
+* `cd ember-threadsjs-workers-shim`
 * `npm install`
 
 ## Running

@@ -1,17 +1,17 @@
 {
-  "name": "ember-hamstersjs-workers-shim",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "ember-threads-workers-shim",
+  "version": "0.0.5",
+  "description": "Threads.js addon",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "NiQ",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/niquelbarron/ember-threadsjs-workers-shim.git",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
